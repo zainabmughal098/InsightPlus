@@ -1,0 +1,6 @@
+{
+  "name": "InsightPulse - Interactive Data Dashboard",
+  "description": "Interactive multi-dimensional data analytics dashboard with real-time dynamic filtering, multi-chart visualizations, CSV file upload, and AI-powered trend insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
